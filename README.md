@@ -30,8 +30,8 @@ AWS | CI/CD | GitHub Actions | Terraform | Monitoring | SRE Practices
 
 ## 📫 Connect With Me
 
-- LinkedIn: your-linkedin-url
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/chalaka-perera-a280b9324
+- Email: chalakasamith@gmail.com
 
 ---
 
