@@ -108,19 +108,16 @@ philosophy: "I don't just write code — I build systems that solve real operati
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Numbers
 
 <div align="center">
 
-<!-- Primary stats card via anuraghazra — most reliable instance -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=chala2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
-&nbsp;
-<!-- Top languages via same host -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chala2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
+![Repos](https://img.shields.io/badge/Public%20Repos-23-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars%20Earned-11-ffd700?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-222%2B-58a6ff?style=for-the-badge&logo=githubactions&logoColor=white)
+![Since](https://img.shields.io/badge/Since-Nov%202023-green?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-> 💡 **If the cards above show broken images:** GitHub caches external images aggressively. Hard-refresh the page (`Ctrl+Shift+R`) or view your profile in incognito mode — they will load correctly.
 
 ---
 
