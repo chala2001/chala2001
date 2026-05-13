@@ -13,7 +13,7 @@
 ```yaml
 name:       Chalaka Perera
 location:   Sri Lanka 🇱🇰
-university: University of Peradeniya — Computer Engineering
+university: University of Peradeniya — Computer Engineering(UG)
 gpa:        3.96 / 4.00
 
 focus:
