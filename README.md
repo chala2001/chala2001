@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Chalaka%20Perera&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20AI%2FML&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Systems+That+Actually+Work+%F0%9F%9A%80;Full+Stack+%7C+DevOps+%7C+Cloud+%7C+AI%2FML;Computer+Engineering+%40+University+of+Peradeniya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Systems+That+Actually+Work+%F0%9F%9A%80;Full+Stack+%7C+DevOps+%7C+Cloud+%7C+AI%2FML;Computer+Engineering+%40+University+of+Peradeniya)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ```yaml
 name:       Chalaka Perera
 location:   Sri Lanka 🇱🇰
-university: University of Peradeniya — Computer Engineering(UG)
+university: University of Peradeniya — Computer Engineering
 gpa:        3.96 / 4.00
 
 focus:
@@ -112,15 +112,23 @@ philosophy: "I don't just write code — I build systems that solve real operati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chala2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chala2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<!-- Primary stats card via anuraghazra — most reliable instance -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=chala2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
+&nbsp;
+<!-- Top languages via same host -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chala2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
 
 </div>
 
+> 💡 **If the cards above show broken images:** GitHub caches external images aggressively. Hard-refresh the page (`Ctrl+Shift+R`) or view your profile in incognito mode — they will load correctly.
+
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chala2001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=chala2001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e)
 
 </div>
 
