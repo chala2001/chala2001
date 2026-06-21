@@ -22,10 +22,10 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 &nbsp; Computer Engineering at University of Peradeniya(UG) GPA 3.97 / 4.00
-- 🌐 &nbsp; Building full-stack web apps with React, Spring Boot, Django & Node.js
-- ☁️ &nbsp; Architecting cloud-native systems on AWS with Docker & Kubernetes
-- 🤖 &nbsp; Developing AI/ML pipelines — RAG systems, Streamlit apps, MLOps workflows
+- 🎓 &nbsp; Computer Engineering at University of Peradeniya (UG) · GPA 3.97 / 4.00
+- 🌐 &nbsp; Building full-stack web apps with React, Spring Boot, Django, Node.js & FastAPI
+- ☁️ &nbsp; Architecting cloud-native systems on AWS & Azure with Docker & Kubernetes
+- 🤖 &nbsp; Developing AI/ML & Agentic AI systems — RAG pipelines, LangChain agents, MLOps workflows
 - 📡 &nbsp; Integrating IoT devices with real-time backend data pipelines
 - 🔧 &nbsp; Automating everything with Jenkins, GitHub Actions & Terraform
 - 💬 &nbsp; Ask me about System Design, DevOps, or AI-powered backends
@@ -45,11 +45,11 @@
 
 **Frontend & Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Databases**
 
@@ -57,7 +57,11 @@
 
 **Tools & IDEs**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**ML & Agentic AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;![Browser Use](https://img.shields.io/badge/Browser_Use-FF7A00?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -69,9 +73,9 @@
 
 | Domain | What I Deliver |
 |:---:|:---|
-| 🌐 &nbsp; **Full Stack** | End-to-end web apps — React frontends, Spring Boot / Django / Node.js backends, REST APIs |
-| ☁️ &nbsp; **Cloud & DevOps** | Dockerized microservices, Kubernetes orchestration, CI/CD with Jenkins & GitHub Actions |
-| 🤖 &nbsp; **AI / ML** | RAG pipelines, ML model deployment, AI-powered apps with Streamlit & Python |
+| 🌐 &nbsp; **Full Stack** | End-to-end web apps — React frontends, Spring Boot / Django / Node.js / FastAPI backends, REST APIs |
+| ☁️ &nbsp; **Cloud & DevOps** | Dockerized microservices, Kubernetes orchestration, CI/CD with Jenkins & GitHub Actions, AWS & Azure deployments |
+| 🤖 &nbsp; **AI / ML & Agentic AI** | RAG pipelines, LangChain-powered agents, browser automation agents, ML model deployment with TensorFlow |
 | 📡 &nbsp; **IoT Systems** | Embedded device integration, real-time data pipelines, backend connectivity |
 
 </div>
