@@ -22,7 +22,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 &nbsp; Computer Engineering at University of Peradeniya (UG) · GPA 3.97 / 4.00
+- 🎓 &nbsp; Computer Engineering at University of Peradeniya (UG) · GPA 3.971 / 4.00
 - 🌐 &nbsp; Building full-stack web apps with React, Spring Boot, Django, Node.js & FastAPI
 - ☁️ &nbsp; Architecting cloud-native systems on AWS & Azure with Docker & Kubernetes
 - 🤖 &nbsp; Developing AI/ML & Agentic AI systems — RAG pipelines, LangChain agents, MLOps workflows
