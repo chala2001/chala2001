@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SE+%7C+DevOps+%7C+AI%2FML+Engineer)](https://github.com/chala2001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+%7C+DevOps+%7C+AI%2FML+Engineer)](https://github.com/chala2001)
 
 <br/>
 
