@@ -23,16 +23,79 @@
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 &nbsp; Computer Engineering at University of Peradeniya (UG) · GPA 3.971 / 4.00
-- 🌐 &nbsp; Building full-stack web apps with React, Spring Boot, Django, Node.js & FastAPI
-- ☁️ &nbsp; Architecting cloud-native systems on AWS & Azure with Docker & Kubernetes
-- 🤖 &nbsp; Developing AI/ML & Agentic AI systems : RAG pipelines, LangChain agents, MLOps workflows
-- 📡 &nbsp; Integrating IoT devices with real-time backend data pipelines
-- 🔧 &nbsp; Automating everything with Jenkins, GitHub Actions & Terraform
+- 🌐 &nbsp; Full-stack web apps : React, Spring Boot, Django, Node.js, FastAPI
+- ☁️ &nbsp; Cloud-native systems on AWS & Azure with Docker, Kubernetes & Terraform
+- 🤖 &nbsp; AI/ML & Agentic AI : RAG pipelines, LangChain agents, MLOps workflows
+- 📡 &nbsp; IoT devices integrated with real-time backend data pipelines
 - 🌍 &nbsp; Open source contributor : **8 PRs merged** into Kubernetes-Pythonclient, sktime & Apache Camel
-- 💬 &nbsp; Ask me about System Design, DevOps, or AI-powered backends
 - 📧 &nbsp; chalakasamith@gmail.com
 
 <br clear="right"/>
+
+---
+
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+**8 pull requests merged** into projects with a combined **24k+ GitHub stars** - features, bug fixes and packaging work across the Kubernetes, machine learning and Apache ecosystems.
+
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-8-2ea043?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Projects](https://img.shields.io/badge/Upstream_Projects-3-58a6ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)&nbsp;
+![In Review](https://img.shields.io/badge/In_Review-4-d29922?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+### ☸️ [kubernetes-client/python](https://github.com/kubernetes-client/python) &nbsp;·&nbsp; ⭐ 7.6k
+
+> The official Python client SDK for Kubernetes.
+
+| PR | Contribution |
+|:---|:---|
+| [#2703](https://github.com/kubernetes-client/python/pull/2703) | Added `sendInitialEvents` support to the dynamic client watch, enabling the Kubernetes streaming-list API |
+| [#2693](https://github.com/kubernetes-client/python/pull/2693) | Added an opt-in TCP keepalive option so long-lived watch connections survive idle network drops |
+| [#2690](https://github.com/kubernetes-client/python/pull/2690) | Implemented `LeaseLock` for leader election on the `coordination.k8s.io` Lease API |
+| [#2689](https://github.com/kubernetes-client/python/pull/2689) | Repaired the broken docs `tox` environment that blocked documentation builds |
+| [#2688](https://github.com/kubernetes-client/python/pull/2688) | Migrated package metadata to the setuptools `license_expression` field |
+| [#2687](https://github.com/kubernetes-client/python/pull/2687) | Adopted the SPDX license identifier in package metadata |
+
+<br/>
+
+### 📈 [sktime/sktime](https://github.com/sktime/sktime) &nbsp;·&nbsp; ⭐ 10k
+
+> A unified framework for machine learning with time series.
+
+| PR | Contribution |
+|:---|:---|
+| [#10908](https://github.com/sktime/sktime/pull/10908) | Documented the missing `property:randomness` and `capability:random_state` estimator tags across the extension templates |
+
+<br/>
+
+### 🐫 [apache/camel](https://github.com/apache/camel) &nbsp;·&nbsp; ⭐ 6.3k
+
+> Apache's open source integration framework.
+
+| PR | Contribution |
+|:---|:---|
+| [#26024](https://github.com/apache/camel/pull/26024) | **CAMEL-24409** — fixed binary request bodies being corrupted during REST client request validation |
+
+<br/>
+
+<details>
+<summary><b>🔄 Currently in review</b></summary>
+
+<br/>
+
+| PR | Contribution |
+|:---|:---|
+| [sktime#10927](https://github.com/sktime/sktime/pull/10927) | Migrate the `classifier_type` tag to the `_BaseTag` class |
+| [sktime#10914](https://github.com/sktime/sktime/pull/10914) | Migrate the `reserved_params` tag to the `_BaseTag` class |
+| [sktime#10912](https://github.com/sktime/sktime/pull/10912) | Stop the weekly test collection raising when no Python version matches |
+| [sktime#10911](https://github.com/sktime/sktime/pull/10911) | Fix `check_tag_is_valid`, which raised on every input |
+
+</details>
 
 ---
 
@@ -68,86 +131,6 @@
 
 ---
 
-## 🚀 What I Build
-
-<div align="center">
-
-| Domain | What I Deliver |
-|:---:|:---|
-| 🌐 &nbsp; **Full Stack** | End-to-end web apps — React frontends, Spring Boot / Django / Node.js / FastAPI backends, REST APIs |
-| ☁️ &nbsp; **Cloud & DevOps** | Dockerized microservices, Kubernetes orchestration, CI/CD with Jenkins & GitHub Actions, AWS & Azure deployments |
-| 🤖 &nbsp; **AI / ML & Agentic AI** | RAG pipelines, LangChain-powered agents, browser automation agents, ML model deployment with TensorFlow |
-| 📡 &nbsp; **IoT Systems** | Embedded device integration, real-time data pipelines, backend connectivity |
-
-</div>
-
----
-
-## 🌍 Open Source Contributions
-
-<div align="center">
-
-**8 pull requests merged** into projects with a combined **24k+ GitHub stars** - shipping features, bug fixes and packaging improvements to the Kubernetes, machine learning and Apache ecosystems.
-
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-8-2ea043?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Projects](https://img.shields.io/badge/Upstream_Projects-3-58a6ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)&nbsp;
-![In Review](https://img.shields.io/badge/In_Review-4-d29922?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-### ☸️ [kubernetes-client/python](https://github.com/kubernetes-client/python) &nbsp;·&nbsp; ⭐ 7.6k
-
-> The official Python client SDK for Kubernetes.
-
-| PR | Contribution |
-|:---|:---|
-| [#2703](https://github.com/kubernetes-client/python/pull/2703) | Added `sendInitialEvents` support to the dynamic client watch, enabling the Kubernetes streaming-list API |
-| [#2693](https://github.com/kubernetes-client/python/pull/2693) | Added an opt-in TCP keepalive option so long-lived watch connections survive idle network drops |
-| [#2690](https://github.com/kubernetes-client/python/pull/2690) | Implemented `LeaseLock` for leader election on the `coordination.k8s.io` Lease API |
-| [#2689](https://github.com/kubernetes-client/python/pull/2689) | Repaired the broken docs `tox` environment that blocked documentation builds |
-| [#2688](https://github.com/kubernetes-client/python/pull/2688) | Migrated package metadata to the setuptools `license_expression` field |
-| [#2687](https://github.com/kubernetes-client/python/pull/2687) | Adopted the SPDX license identifier in package metadata |
-
-<br/>
-
-### 📈 [sktime/sktime](https://github.com/sktime/sktime) &nbsp;·&nbsp; ⭐ 10k
-
-> A unified framework for machine learning with time series.
-
-| PR | Contribution |
-|:---|:---|
-| [#10908](https://github.com/sktime/sktime/pull/10908) | Documented the undocumented `property:randomness` and `capability:random_state` estimator tags across the extension templates, closing a drift between the tag registry and what new contributors actually see |
-
-<br/>
-
-### 🐫 [apache/camel](https://github.com/apache/camel) &nbsp;·&nbsp; ⭐ 6.3k
-
-> Apache's open source integration framework.
-
-| PR | Contribution |
-|:---|:---|
-| [#26024](https://github.com/apache/camel/pull/26024) | **CAMEL-24409** — fixed binary request bodies being corrupted during REST client request validation |
-
-<br/>
-
-<details>
-<summary><b>🔄 Currently in review</b></summary>
-
-<br/>
-
-| PR | Contribution |
-|:---|:---|
-| [sktime#10927](https://github.com/sktime/sktime/pull/10927) | Migrate the `classifier_type` tag to the `_BaseTag` class |
-| [sktime#10914](https://github.com/sktime/sktime/pull/10914) | Migrate the `reserved_params` tag to the `_BaseTag` class |
-| [sktime#10912](https://github.com/sktime/sktime/pull/10912) | Stop the weekly test collection raising when no Python version matches |
-| [sktime#10911](https://github.com/sktime/sktime/pull/10911) | Fix `check_tag_is_valid`, which raised on every input |
-
-</details>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -164,21 +147,11 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chala2001&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chala2001&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true&radius=6)
+![Contribution Chart](https://ghchart.rshah.org/58a6ff/chala2001)
 
 </div>
 
@@ -186,7 +159,7 @@
 
 <div align="center">
 
-*"The best systems are invisible — they just work."*
+*"The best systems are invisible - they just work."*
 
 <br/>
 
