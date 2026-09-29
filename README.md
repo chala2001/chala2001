@@ -27,7 +27,7 @@
 - ☁️ &nbsp; Cloud-native systems on AWS & Azure with Docker, Kubernetes & Terraform
 - 🤖 &nbsp; AI/ML & Agentic AI : RAG pipelines, LangChain agents, MLOps workflows
 - 📡 &nbsp; IoT devices integrated with real-time backend data pipelines
-- 🌍 &nbsp; Open source contributor : **8 PRs merged** into Kubernetes-Pythonclient, sktime & Apache Camel
+- 🌍 &nbsp; Open source contributor : **7 PRs merged** into Kubernetes-Pythonclient & sktime
 - 📧 &nbsp; chalakasamith@gmail.com
 
 <br clear="right"/>
@@ -38,10 +38,10 @@
 
 <div align="center">
 
-**8 pull requests merged** into projects with a combined **24k+ GitHub stars** - features, bug fixes and packaging work across the Kubernetes, machine learning and Apache ecosystems.
+**7 pull requests merged** into projects with a combined **17k+ GitHub stars** - features, bug fixes and packaging work across the Kubernetes and machine learning ecosystems.
 
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-8-2ea043?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Projects](https://img.shields.io/badge/Upstream_Projects-3-58a6ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)&nbsp;
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-7-2ea043?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Projects](https://img.shields.io/badge/Upstream_Projects-2-58a6ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)&nbsp;
 ![In Review](https://img.shields.io/badge/In_Review-4-d29922?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -70,16 +70,6 @@
 | PR | Contribution |
 |:---|:---|
 | [#10908](https://github.com/sktime/sktime/pull/10908) | Documented the missing `property:randomness` and `capability:random_state` estimator tags across the extension templates |
-
-<br/>
-
-### 🐫 [apache/camel](https://github.com/apache/camel) &nbsp;·&nbsp; ⭐ 6.3k
-
-> Apache's open source integration framework.
-
-| PR | Contribution |
-|:---|:---|
-| [#26024](https://github.com/apache/camel/pull/26024) | **CAMEL-24409** — fixed binary request bodies being corrupted during REST client request validation |
 
 <br/>
 
