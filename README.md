@@ -73,19 +73,7 @@
 
 <br/>
 
-<details>
-<summary><b>🔄 Currently in review</b></summary>
 
-<br/>
-
-| PR | Contribution |
-|:---|:---|
-| [sktime#10927](https://github.com/sktime/sktime/pull/10927) | Migrate the `classifier_type` tag to the `_BaseTag` class |
-| [sktime#10914](https://github.com/sktime/sktime/pull/10914) | Migrate the `reserved_params` tag to the `_BaseTag` class |
-| [sktime#10912](https://github.com/sktime/sktime/pull/10912) | Stop the weekly test collection raising when no Python version matches |
-| [sktime#10911](https://github.com/sktime/sktime/pull/10911) | Fix `check_tag_is_valid`, which raised on every input |
-
-</details>
 
 ---
 
